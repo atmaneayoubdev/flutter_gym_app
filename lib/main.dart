@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
         supportedLocales: context.supportedLocales,
         locale: context.locale,
         debugShowCheckedModeBanner: false,
-        title: 'Gym',
+        title: 'Gym App',
         theme: ThemeData(
           primarySwatch: Colors.deepOrange,
         ),
