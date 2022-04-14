@@ -1,16 +1,18 @@
-# gym
+# gym App
 
-A new Flutter project.
+A fluter app that helps people keep tracking of their fitness life style from exercicing to nutrition.
 
-## Getting Started
+## These are some scrrenshots from the app:
 
-This project is a starting point for a Flutter application.
+![image1](https://user-images.githubusercontent.com/60040800/163403416-5dce3462-49bc-4108-8aff-7096ff7ae317.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![image2](https://user-images.githubusercontent.com/60040800/163403497-e2ea465c-2a0e-41aa-a724-dfab56d2baa8.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image3](https://user-images.githubusercontent.com/60040800/163403551-adbaa0aa-9471-4ca0-bf34-7dec8ae9acd8.jpeg)
+
+
+![image4](https://user-images.githubusercontent.com/60040800/163403609-d1ea1ae6-8e5d-4635-ad4c-dca58ba42147.jpeg)
+
+
+![image5](https://user-images.githubusercontent.com/60040800/163403640-c91e9a58-1748-4eb3-806d-4156866994f1.jpeg)
