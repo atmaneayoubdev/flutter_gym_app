@@ -4,7 +4,10 @@ A fluter app that helps people keep tracking of their fitness life style from ex
 
 ## These are some scrrenshots from the app:
 
-![Screenshot_1649338558](https://user-images.githubusercontent.com/60040800/163404288-e6f75eae-64c3-4350-b6cb-beb8124078b1.png | width="200" height="400")
+
+<img src="https://user-images.githubusercontent.com/60040800/163404288-e6f75eae-64c3-4350-b6cb-beb8124078b1.png" width="150" height="280">
+
+![Screenshot_1649338558](https://user-images.githubusercontent.com/60040800/163404288-e6f75eae-64c3-4350-b6cb-beb8124078b1.png)
 
 
 
